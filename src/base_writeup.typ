@@ -3,6 +3,7 @@
 #show: conf.with(
   title: "Title",
   source: "Source",
+  url: "Url",
   category: "Category",
   authors: (
     (
@@ -15,6 +16,12 @@
 
 // Main document
 = Problem
+
+//- *Input*:
+//
+//- *Output*:
+//
+//- *Constraints*:
 
 = Solution
 
