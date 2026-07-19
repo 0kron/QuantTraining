@@ -18,7 +18,7 @@ Made of write ups and investigations related to the Quant Finance field.
 - **A Practical Guide to Quantitative Finance Interviews**:
 - **CSES**:
   - Introductory Problems:
-    - (Main/CSES_MissingNumber.pdf)[Missing Numbers].
+    - [Missing Numbers](Main/CSES_MissingNumber.pdf).
 
 - **CodeForces**:
 - **CodeSignal**:
